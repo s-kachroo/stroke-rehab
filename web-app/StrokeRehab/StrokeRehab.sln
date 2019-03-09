@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "StrokeRehab", "StrokeRehab\StrokeRehab.njsproj", "{C19C6ECE-7899-428A-995A-FD02DF336AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19C6ECE-7899-428A-995A-FD02DF336AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19C6ECE-7899-428A-995A-FD02DF336AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19C6ECE-7899-428A-995A-FD02DF336AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19C6ECE-7899-428A-995A-FD02DF336AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFDCBE7-16DD-4D2F-98AD-43F88287F87E}
+	EndGlobalSection
+EndGlobal
