@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="StrokeRehab">
+    <output-path>$PROJECT_DIR$/out/artifacts/StrokeRehab</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="StrokeRehab" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/appengine-web.xml" />
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.servlet:servlet-api:2.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
