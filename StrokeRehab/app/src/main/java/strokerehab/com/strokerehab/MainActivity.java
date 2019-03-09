@@ -7,11 +7,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-
-<<<<<<< HEAD
-=======
     Button signUpDoctorActivity, signUpPatientActivity, loginActivity;
->>>>>>> 39e9a0ee36f8fb36b7435b7abfbe352253131950
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
